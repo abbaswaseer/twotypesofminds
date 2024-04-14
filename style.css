@@ -1,0 +1,15 @@
+td{
+    width: 1000px;
+}
+
+#column1{
+    background-color: aquamarine;
+    font-size: 25px;
+    padding: 10px;
+}
+#column2{
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
